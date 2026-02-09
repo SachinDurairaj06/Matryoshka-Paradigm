@@ -1,0 +1,10 @@
+google-genai
+langgraph
+langchain
+langchain-google-genai
+qdrant-client
+neo4j
+fastapi
+uvicorn
+python-dotenv
+numpy
