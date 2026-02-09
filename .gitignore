@@ -1,5 +1,17 @@
+# Python
 .venv/
-__pycache__
+__pycache__/
+*.pyc
+
+# Environment variables
 .env
-.qdrant
-.neo4j
+
+# Local databases
+.qdrant/
+.neo4j/
+
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
